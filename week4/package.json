@@ -1,0 +1,16 @@
+{
+  "name": "auth-practice",
+  "version": "1.0.0",
+  "description": "Auth Practice API with Supabase",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
