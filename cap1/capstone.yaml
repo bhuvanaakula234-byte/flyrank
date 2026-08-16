@@ -1,0 +1,3 @@
+run: npm run start
+test: npm run test
+base_url: http://localhost:3000
